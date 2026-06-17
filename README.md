@@ -9,7 +9,7 @@
 #### :raising_hand: I am a AI researcher from South Korea
 #### :fire: My primary research interests lie in generative AI and multimodal learning. 
 #### :mortar_board: B.S. in Department of Electrical and Computer Engineering, Ajou University 
-#### :mortar_board: M.S. Student in School of Electrical Engineering, Korea University
+#### :mortar_board: M.S. in Department of Electrical and Computer Engineering, Korea University
 <br/>
 <br/>
 
